@@ -1,0 +1,12 @@
+jira:
+  baseUrl: ${BASE_URL}
+  username: ${USERNAME}
+  password: ${PASSWORD}
+  releaseInstructionTemplateData:
+    projectKey: ${PROJECT_KEY}
+    issueType: ${ISSUE_TYPE}
+    summary: ${SUMMERY}
+    label: ${LABEL}
+
+file:
+  tempDirectory: ${TEMP_DIR}
